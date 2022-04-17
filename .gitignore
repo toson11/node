@@ -1,0 +1,10 @@
+# .gitignore
+.DS_Store
+node_modules
+dist
+.env.local
+.env.*.local
+yarn.lock
+public/video
+*.zip
+/package-lock.json
